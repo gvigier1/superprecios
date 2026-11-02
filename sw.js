@@ -1,5 +1,5 @@
 // SúperPrecios : l'app marche hors connexion avec les derniers prix telecharges.
-const SHELL = "sp-shell-v1";
+const SHELL = "sp-shell-v2";
 const DATA = "sp-data";
 const FILES = ["./", "index.html", "manifest.webmanifest", "icon-192.png", "icon-512.png", "apple-touch-icon.png"];
 
